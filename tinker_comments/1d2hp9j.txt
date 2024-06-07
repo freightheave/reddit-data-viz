@@ -1,0 +1,147 @@
+Thanks for reporting this bug! 
+
+Check out the **[General Dota 2 Bug Tracker](https://github.com/ValveSoftware/Dota2-Gameplay/issues)** and **[Tracker for Linux and Mac](https://github.com/ValveSoftware/Dota-2/issues)**
+
+**PLEASE THROUGHLY CHECK IF YOUR BUG HAS ALREADY BEEN REPORTED**. Duplicate issues can slow the dev team when resolving a bug.
+
+* If you find an existing issue for your bug, please upvote the thread. You can also provide additional information and match IDs to further assist the development team.
+* If not, create a new issue ([general tracker](https://github.com/ValveSoftware/Dota2-Gameplay/issues/new/choose) / [Linux & Mac](https://github.com/ValveSoftware/Dota-2/issues/new)) with as much information as possible:
+ * A detailed description of the bug
+ * System info (i.e. operating system)
+ * Match IDs (if applicable)
+ * Screenshots or video (if applicable)"
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DotA2) if you have any questions or concerns.*
+guess we gotta bring back tinker's rocket to fix the tutorial
+
+sorry guys
+    I mean tbh the hero literally has a rocket launcher as half his model
+    We can just remove defense matrix from his main abilities to make space and have that be his shard instead!
+    Nah just make the tutorial use March of the Machines instead of Heat-Seeking Missiles. I hope you enjoy bullet hells.
+bahahahaha
+Oh its a shame a trainer map got broken, should be fixed :)
+    don't worry OP it's probably being fixed as we speak! valve would never let this stay broken forever
+Jesus Christ, talk about rubbing it in. But then again its also way too funny.
+just about a fifth of the tutorials are broken, at least before the latest bugfix patch. I'm just returning to dota after like a 6 year hiatus, and figured i'd try to go through them to help get back in the groove a bit. Discovering that so many of them are broken, including the last community made one at multiple points, has been quite disheartening.
+I'm just surprised that frog took away rockets instead of defense matrix, because he had ALL that time to decide on what to do. If it was gonna be as pathetic as this, why not do it way back when Techies got reworked? Not that I necessarily want tinker players to have fun, but everybody deserves to enjoy big patches even psychopathic monsters...not like tinker is the only hero who's annoying to play against or even the worst. Broodmama, techies, arc, antimage, ursa, meepo, storm, od, sniper, and windranger all got to have fun and tinker's just left sitting outside in the rain.
+I wish they’d revert tinker to his earliest role where he was just a super high output mid lane nuker who used his extra early levels to max out laser and rocket. The blink spamming rearm march version of him came later.
+    This is what I don't get. The removed march of the machines ages ago because he had too much utility and then they gave him defense matrix and free boots of travels and shrink ray and blinding ray and blink flare (whatever that one is called) until he was infuriating to play against, and then gutted the hero.
+
+Just don't give him a thousand different features then? Was tinker really even OP back when he just rushed BoTs and teleported around using missile and laser?
+        >Was tinker really even OP
+
+Doesn't matter, he wasn't fun to play with or against. Against a tinker you had to play as a random 5 people and coordinate, with a tinker you didn't have to do anything like that, you just had to watch the enemy make shit decisions. 
+
+  
+Any hero that radically changes the game for only 1 of the two teams needs to be changed.
+            I enjoyed playing both with and against Tinker.
+
+> Any hero that radically changes the game for only 1 of the two teams needs to be changed.
+
+And I fundamentally disagree with this. **Every** hero should radically change how you play the game.
+                If they did all radically change the game then fine (but that's not really possible). If one team can play Dota and the other team has to play a totally different game just so they can try to play Dota it's shit game design.
+    I remember playing split pushing manta tinker with max march way back in dota 1.  I don't think it's that new.
+    What patch are you talking about?
+
+The earliest cancer version of tinker i can remember is him spamming march to the stacked ancients to get fast BoTs then rearm BoTs to any lane and spam rearm robot march to farm other items.
+
+Yes, this also includes the wc3 dota1 version too. Unless you remember more cancerous version of him in his conception.
+        Nah, I remember it differently - the bot spam March play style wasnt the pervasive cancer straight away. For a while he was just a nuker played similarly to Zeus and would fall off super late game. Good players would be able to juggle a few active items like sheep stick and Dagon too, but he was an active fighter.
+Perfection
+clear reason valve didn't want to do tutorials. they can't even bother to update paid services like dota plus they definitely aren't going to keep rework9ing the tutorial
+    Tutorial already got broken when you could no longer disassemble arcane boots and Valve tweaked it afterwards, so you're wrong
+    tutorial for the game should be much more important than some dota plus quests , so they'll get to it. there isn't really a lot of manpower, so they do everything slowly
+KEKW LUL
+I know barely anyone use it but people who does use it have their first impression of dota.
+
+I would suggest 
+
+1) create tutorial version of heroes who arent affected by the patches. This way you will not have headaches when things broken down. Specially because some tutorials dont work 1/5 times for no good reason
+
+2) create a list of crucial itens and spells who is updated could break the tutorial.
+
+Ive played all tutorials recently. Some were already broken and I needed to replay two or three times. They are super useful for new friends. They explain some mechanics (like disjoint) better then me.
+Valve CBA doing automated tests it seems yet again :|
+Still bewildered by what they did to this hero.  I know he's been unhealthy for the game, but were Rockets really the problem?  If anything, March is a more cancerous spell than Rockets.
+
+And don't get me started on the Rearm change.
+    Rockets were only really an issue when he had the crazy ministun or w.e it used to do with aghs. 
+
+Honestly it's so weird I saw tinker drop off the face of the game like , I don't even remember the last time I had to face one mid.
+        Haven’t touched this hero in almost 3 months now. The last time i did his laser cast range nerf had me losing every single mid matchups! I lost something like 6-7 games in a row, won one and completely avoided the hero!
+He was nerfed to the ground and was dependent on his side lanes not losing so he can recover his timings! People only used to lose to tinker if they failed to close the game pre 30 minutes which the hg meta was responsible for or else the hero would be even below 45% wr!
+Now he’s at 39% or something lmao!
+Rant over!
+            Rip man I feel that. I remember when they made Abba universal and then proceeded to change his base attack speed like 2 patches in a row.
+
+Never did I ever expect to relearn how to last hit 3 different times in a week and a half.
+
+Oh man there was also the ptsd I got from going from permanent invis Riki with crazy regen to normal average guy Riki. 
+
+
+It's honestly concerning how many changes of dota 1/2 I've lived through.
+
+Remember losing my shit when I saw lina was from an anime.
+This tutorial has been broken for longer than it seems, I started doing it recently to get the free cosmetics, and it is VERY BUGGED, I had to redo two tutorials about five times because there were times when the bots simply wouldn't spawn or they would be reborn if you died
+Keep zapping!
+    [Keep zapping!](https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f9/Addons_aghanim_vo_announcer_aghanim_agh_fight_encourage_02_b.mp3) (sound warning: Aghanim's Labyrinth: The Continuum Conundrum/Announcer)
+
+---
+Bleep bloop, I am a robot. *OP can reply with "Try hero_name" to update this with new hero*
+
+[*^(Source)*](https://github.com/Jonarzz/DotaResponsesRedditBot) *^(|)* 
+[*^(Suggestions/Issues)*](https://github.com/Jonarzz/DotaResponsesRedditBot/issues/new/choose) *^(|)* 
+[*^(Maintainer)*](https://www.reddit.com/user/MePsyDuck/) *^(|)* 
+[*^(Author)*](https://www.reddit.com/user/Jonarz/)
+That's a kekw
+Giev rockets back, no one wants the march back
+    or at least as a shard!
+
+noone uses warp flare, I remember kiyotaka not buying shard in a 60+ min game
+    Yep, stomped a tinker yesterday, but I was like "not this shit again" to the march.
+    Endlessly waiting for valve to finally admit their original mistake and get rid of the stupid shield ability.
+        You mean the free Travel Boots?
+            Iirc the shield came first, and I count all the subsequent changes as just band-aid fixes by valve trying not to reverse the actual probelm.
+    what? i stopped playing tinker moment they removed march. march is ALL I wanted back, full power as a main skill. Tinker is the BEST split pusher in the game with march.
+        Is that still true if you can no longer refresh blink?
+            yes? I always blinked in did 2-3 waves then walked back. it's exactly how I used to play.
+        Free bots and buying shivas, was a better iteration than paid bots and march. 
+
+Because you actually skilled nukes and got to play with the team instead of afk jungling and hiding with marches.
+I think valve want him to be a support spamming def matrix onto cores. Not that hard to realise tbh especially with the heals from march of the machines facet. Use his teleport to split push and use his teleport to always be in fights helping the team win the fight instead of winning it solo. His blind is still really strong utility too. Warp flare also backs my theory up just use that on an ursa or smth running down ur team etc.
+
+He's a support now dk what position or how to play it cos im not good at the game and my theory could be completely wrong but I do think he can be a strong support. Seriously just look at his abilities, he has a heal a semi-disable in warp flare, a blind in laser and a damage barrier that also gives stat resist in def matrix.
+
+I think he could be strong as a support dk whether hed be a 4 or a 5.
+    i actually have been trying support tinker and i think its weak but not outrageously so, you can win with it
+
+but frankly its just far worse than support tinker was last patch. support tinker didnt really *gain* anything, and march is a substantially worse skill than rockets is for teamfight contribution. heal facet on march is terrible and march's damage on players has always been pathetically low, its only real utility is waveclear
+
+losing rockets is just bizarre, half his hero model is for his rocket launcher lol
+        Yeah, anyone who says that the intent here is for support tinker is off their rocker. We want the hero to be a support, so we gave him a spell that's so good at farming that you can't even use it half the time without taking last hits? Insane. If they wanted tinker support to be an option, they could have given him a good support spell on his left facet to replace march.
+
+The person designing these changes pretty obviously has no idea how the hero used to work and no coherent plan for how he is supposed to work now. Probably Icefrog didn't have time to come up with detailed changes for every hero this patch and had to give some to the intern.
+        I'm gonna test it out myself too cos I think it is the intention.
+            the biggest issue you face as a support is that you have basically 0 disable.
+
+you are a really really strong harasser and trade really efficiently against enemy supports but actually getting a kill is reliant on having a core with disables since you have none. in the past that was made up by the fact that you had outrageous burst damage but now your kill potential is pretty low. 
+
+later on your teamfight contribution is basically trying to laser people, marching (for little meaningful effect) and barriering allies. laser range is still too low to use without basically killing yourself until you get an aether lens, barrier is genuinely strong but march is a trash skill in fights i see no way around it. even when I've won 45 minutes games where I've played well, march is a pathetically small fraction of my total damage output and its heal output is terrible too. its just a dead skill for fight utility. its main draw has been that you can depush across the map and rejoin fights so its good anti-splitpush tech but not that amazing
+
+valve loves to make terrible reworks of heros and then brute force them into viability though so I'm expecting this will eventually be made good by nature of several insane buffs in succession
+                Shard is a root and you have the blind. To me seems like a decent legion/ursa/troll counter maybe?
+The rootd get vision on a Riki or a blurred pa too.
+                    shard is unfortunately just as often a grief as it is good utility. its good for self-defense to some extent but in any fight its likely to help someone escape
+
+and obviously it is not a factor in a lane. i personally just find shard very uncomfortable to use almost all the time.
+    Tinker is pretty strong in right hands still. With correct items you have like 2.1 sec CD on blink and like 5 on upgraded euls. You farm as a madman with marches and if there is no early pressure - you reliably win every game
+        But the issue is that tinker has to farm like 12k worth of items to come online! And he has to farm core items like arcane blink, ocatrine! He still lacks any disables! Any decent support with 12k networth is better than what tinker has to offer!
+There are better heroes to be played mid other than tinker right now and even better heroes to be played support!
+I’ve tried demo myself and he’s a beast with cdr cooldown at late game but getting there is such a pain cuz in every teamfight tinker has abysmal presence and utility which you dont want from you pos 4/5!
+    Warp flare can really be used to grief sometimes! Not a reliable disable!
+    Turning Tinker into a support lol. This game is dead.
+        Dead game no bitching
+It blows my mind that they don't have separate hero entries for events, tutorials, etc.
+HAUAHAUAHAUHAHAHAHA
+Just remove this stupid fucking hero

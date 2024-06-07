@@ -1,0 +1,61 @@
+Invoker orb change did not break the hero, just changed the playstyle, he kept his core functionality - being a spell caster. Also loss of dmg/heal from orbs was compensated by him being universal, and adding heal to coldsnap, not ideal but not that bad either. Tinker, on the other hand, lost his uniqueness - the ability to rearm items and be a global presence nuker. That was what he was since WC3 dota. Seeing that happen is honestly disappointing, he will probably get buffed later but I don't expect it to be as fun to play as it used to be, and that's what matters most - to me at least.
+    20 years of fun for multiple generations of tinker fans gone because 1k mmr players complained they lost 1/50 games to the hero. Sad times
+        Honestly, I don’t understand the angle that Valve only listened to sentiment analysis on comments and forum posts.
+
+Valve is sitting on a disgusting amount of data, the ability to see all games unfold as an aggregate with the keystroke of a command, and plus other sources of input that isn’t shared via a public API. 
+
+It’s not like Valve saw posts over the years and went, “hey you know what… who’s this Tinker fellow everyone’s complaining about?
+
+The data, and facts, never lies. 
+
+Also, Valve might be looking for a second wind in terms of attracting new types of players, especially with micro-heavy heroes getting the dumb-dumb bat (see Visage).
+            They literally made megameepo months after the suggestion was a top post on Reddit and gave lion damage on suck after weeks of meme posts about platemail lion.
+
+Also since the beginning of dota balancing was heavily influenced by forums and previously icefrog discussing changes on them himself
+                Yeah, I’m sure it plays a role, but in 2024 and since big data times, it’s a much smaller percent now, and as someone who does this for a FAANG company, the posts may have caused them to raise concern and investigate in the back-end because an uptick in sentiment complaints, and more often than not there might be a concern. 
+
+Also, they’re most outliers and confirmation bias. So many posts are also made, and comments in Discord, etc, but changes aren’t implemented, despite vocal outcry.
+just exclude dagger from items that can't be rearm and h at least he's not totally useless.
+    Built in dagger ability, the way they did with BoT.
+        Meh, you cannot just give him a free dagger tho.
+            Eh, dagger that is fully countered with silence sounds good.
+                Yeah no I get what you say, but 
+
+- assuming you last pick Tinker
+- assuming that you did so versus a silence-less lineup (which is I would say a good rule of thumb for tinkers in general)
+- assuming that you're granted the blink at six together with TP
+
+You'd have a fairly good amount of time before anyone comes up with an orchid to take advantage of your huge power spike and snowball from there. 
+
+Not saying it's broken or anything, but I also cannot be the solution imho. Perhaps could be granted by the shard could be somewhat more balanced? 15 minutes is not an ideal timing at all, but it'd be cheaper than blink, though not completely free.
+
+Personally I think this is a turning point and valve might not be willing to look back. That doesn't have to mean the hero is that. I partially agree with the techies player seeing similitudes with them, but I think they're missing the point.
+
+Yes, like Techies, Tinker's got reworked. Yes, some time might be needed to fix and balance things. But eventually the hero becomes playable again, enjoyable and even competitive. Techies have been top support for a long time, and even now even if not the most popular they definitely have their strengths.
+
+Valve has no intention of breaking heroes' concept just for funsies. It's great that they try stuff. Alas, sometimes it does not work, but it's not permanent.
+                    There are tons of ways to balance it if it’s something unique to the hero. Shard works, yeah. You could have decreased cast range or have a mana cost attached to it.
+Ah, reminds me of the techies rework.
+    With the difference that techies were shit and became viable, not the other way around.
+currently trying out right click build with matrix facet items are null, Midas, thread, gleip, pike, parasma, khanda, bkb/eul/octarine then replace boots with int blink. You'll be uncatchable with really short cd on pike. so you can force, blink, then force again, or force, eul, force.   
+  
+You can also try early fight build like blink, witch blade, force. haven't tried it tho. 
+
+another build i wanna try are tank build, so you can cast spell right in front of them and didn't care at all. like budget primal.
+    Wheelchair Tinker more like Roller Skater Tinker. You know Tinker can early game to mid using Vessel to substitute with Shivas, since it low CD. Up to 4 sec or less.                                                                                             Im more on overwhelming blink, 2x Parasma and ethereal blade for Perma slows and then revenant brooch to kill them in ghost form and Silver Edge. Very nasty.  Look I'm magic clinks now
+        interesting build with brooch and ethereal, but I don't think the damage will scale that much with the brooch nerf, so you can't crit with khanda. I'll definitely try it tho.
+            The reason I take khanda is because of the single spell burst with Tinker laser and warp flare, warp flare is the cheapest mana consumption plus doest like another hurricane pike and. Once you did the burst and rearm take a sec plus to recover. since the target is ethereal that when the following rev brooch auto attack comes in for coup the grace.
+I saw good build in 10k mmr youtube game(no id cause of coordinator problem) you buy pt, null and kaya to farm, then go arcane blink, and then octarine/eul/eblade/hex/agh in order depends on what you need in team. With new march and right items you can get 40k networth at 46min. And this game was not a stomp, tinker team was pressured at early game
+    Lens YouTube eh
+That's not about him being bad, that's about him being pretty much completely different hero with the same model. It doesn't matter if he's descent or not, there is no tinker in the game now
+I mean invoker orb change made him even more flavorful imo. Universal not so much, I still think he fits more as Intelligence,  but still. I think just slightly changing the interaction with rearm and blink after receiving damage would be more than enough to nerf him while still keeping the hero's identity, just like they slowed Ember remnants cast time for example so he is easier to get caugh if he messes up.
+looks so unplayable for me right now.
+Deserved.
+There was close to zero sympathy for techies, so let's bring up some Lil poem and modify it accordingly:
+
+First they came for the techies, and I did not speak out—
+     Because I hated techies.
+
+Then they came for me—and there was no one left to speak for me.
+I have no doubt in Valve's ability to buff him into being a decent support. I have very legit concerns that my most played hero of the last 2 years will never be fun for me again. But hey, FUCK Tinker players am I right??
+Tinker? What about Dragon Knight? They're were not only killed, they were burned to ashes.

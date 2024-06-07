@@ -1,0 +1,472 @@
+His ulti is a tp and a tp reset.
+    Idk, march spam is pretty strong and with arcane blink and other int items he has a 2-3 sec blink
+        Yeah, just farm arcane blink and 25k worth of other items with the weakest hero in the game.
+
+March without blink spam is just omega bad farm.
+            To be honest how is that different from usual tinker gameplay? 
+
+A very long time ago tinker used to farm travel boots, to then farm blink and dagon. Only then, and sometimes even later he actually did join the fights. Then we had an overwhelming blink + Shiva meta. Just in the recent patches tinkers started to actually gank lanes with level 6 and blink. But the hero was still only peaking when had at least blink + Shiva.
+
+I think the valve wanted to remove the most annoying component of playing against tinker, which was "you can't see me, you can't catch me, and I still farm". Their first attempt was to remove the march of the machines, he literally could push lanes without even showing himself ever. This is when Shiva+overwhelming blink meta emerged, and he still could farm with just blinking into the trees nearby creep wave with two rings of Shiva active on him.
+
+Their current attempt is to bring march back, but disable early blinking spam, and Shiva spam.
+
+He still can farm the wave, but is rather immobile while doing that, so now you just can't tp anywhere without thinking, just because you can shift queue blink, and if the enemy is there, just refresh it and blink even further.
+
+He still requires balance, that's for sure but IMHO it's going into the right direction.
+                True, you still needed some time to come online, but at least you could gank side lanes with blink min 8-10. How do you gank lanes now, with only 1 nuke that takes 3 sec to rearm? You press march and hope they will stay there long enough? :D  
+This is a case of "we aren't sure what to do with the hero, let's try something and then iterate based on feedback".  
+There is no objective "right direction", changing functionality he had since dota 1, functionality what made him that hero, is not right direction. It would be like if they removed hook from Pudge, you just don't do that.
+                    I think that it they had left pre-patch tinker playable as a facet then they would have better feedback on how to fix him
+                        100%
+                    At lvl9, you have 300 pure damage nuke and you can usually get 2 casts of on a target. First laser cast is done by walking up to the target from fog and second cast is done after rearming and blinking after the target. You can also get an extra cast if you are ganking a lane that has a support with a disable.  
+  
+I don't see what's the issue with early ganking, Tinker can still do it. I'm not sure if Tinker wants to gank now though, since he can farm shit ton with march by being able to push in lanes easily and stack multiple camps with march. On radiant side you can for example stack the nearest big camp and farm mid wave with 1 march. Then there is the triangle, with march you can farm ancients and the large camp at the same time. There are a bunch of jungle camps that can be farmed at the same time with march as well.
+
+With march it's not unreasonable to get your blink+aghs 14 minutes into the game. Or if you want to farm, you can just get arcane blink and then farm until you get windwaker, at which point you're nearly unkillable and can do whatever you want on the map (except fight, no fighting without aghs).
+
+Give it couple of weeks until people relearn how to use march. Way back, you needed to spend first 2.5k gold on boots of travel, now you get that for free. Who knows what opportunities that presents. Not having rockets is a bitch though.
+                        Yeah that is the upside, you don't need shiva to start farming faster, so I guess you're right when you say Tinker doesn't have to gank since he can farm super fast. Downside is if the enemy mid is active you're just griefing, if you don't join. From my experience if I farm as a mid while enemy mid is ganking all lanes, that game is over by min 25, since "avoid fights" doesn't exist in people's minds.
+
+We'll see what happens, he already got some minor buffs.
+                    Techies are a prime example. He had his remote mines in dota 1. Once introduced to dota 2 he did keep his kit, but games were just unfun to play against. For all 9 people, besides techies players. Tinker for me felt similar (I am not a tinker player, so it's not an unbiased opinion by any means). Without a direct counter, you just were shitted on the whole match by the hero you can't catch. As your teammate, you feel like the whole map is shoved by this guy, and you can never know when he decides to go with the team.
+
+Comparing pudge is not the correct way to raise an argument, because pudge does not change how you play the game very much.
+
+With techies game changed to "one step without detection and you die, with detection you are just locked down in this specific position until ranged heroes will kill all 20 mines". With the tinker game changed to "catch this motherfucker or die". And even if you caught up to him, but failed to deal enough DMG to break his defense matrix, well suck to sucks, he blink away. You caught up to him, dealt enough DMG to break his matrix, but he had status resistance and all of your stuns are just done?. Here is another defense matrix aaaand he is gone again. Now do all of that but you are perma slowed by Shiva. And remember he has 4 teammates, that won't just stand still while you are at it, good luck catching him if he is behind the teammates.
+
+Sniper for example, is another hero that is "you either catch him, or he kills everyone else". But once you are at him he has two ways to disengage. Hurricane and his shard. Both won't take him that far, if you use them and the enemy still can keep up, you are just done.
+
+There is a reason why tinker was one of the Smurfs favourite, he could in experienced hands just win the game solo. 
+
+Things that make the game unfun for others needs to be rethinked. He needed the techies treatment, but it might be overdone. Let's just wait and see what they will do with him in the next patch.
+                        I disagree. The difference between league and dota was always that in dota everything is fucking OP in their niche but you could hard counter that niche through drafting. Removing things and homogenizing everything is not what dota was about. There are ways to make things counterable without outright destroying them.
+                            How do you counter draft last pick tinker I'm curious?
+                                Always pick Spectre)
+                                Fuck if I know I suck at dota lmao it’s not my responsibility to design and balance champions unless you want to pay me to answer this question?
+                                    Well, you said it can be counter drafted, so I was sure you have the answer at hand.
+
+ Don't want to be part of the discussion? Don't write comments please, or pay me to read them.
+                >A very long time ago tinker used to farm travel boots, to then farm blink
+
+Yes. These core items necessary to farm used to be 4k gold. Now its 30k gold. 
+
+>I think the valve wanted to remove the most annoying component of playing against tinker, which was "you can't see me, you can't catch me, and I still farm".
+
+And now we have
+
+"You can see me. You can catch me. And I can't farm regardless."
+
+Honestly, they could have just made blink unrearmable, and compensated for it somehow. Make him faster? Idk. Would have still been a radical change that would have removed the aspect that redditors cried about.
+
+Or maybe they could have put blink on cooldown after TP. 
+
+But instead they chose to remove literally everything that made tinker tinker. Now its nothing more than a mage which uses an insane amount of mana to cast its spells every 4 seconds.
+                    i'm not a tinker player but i think all they needed to do was just make it so you cant rearm blink through player dmg,so you get the 3second cd like all other heroes. that way you could still farm, but if you get caught you can't just escape 5 man gank by rearm blinking
+                        But we already had that - blink rearm didn't reset the damage countdown since 7.33. And then he got omega nerfed again in 7.35 out of existence. AND THEN they nerfed him again so now he's now at 35% winrate with almost no one willing to play him.
+                    you gotta play differently stop saying u could do this with 4k now with 30k. well u are not supposed to do that again, thats why its 30k. you have to play a completely different method this time to succeed with tinker and i'm sure tinker players will come up with that in no time.  
+it's like techis when reworked, winrate hit rock bottom, then out of nowhere topson was winning like crazy and slowly winrate got normal and even higher and now it's picked often in pro games.
+                    But who says he needs to farm? Look at all the int heroes which are getting played as supports even thought they have strong carry skills, like AA, Disruptor or Silencer. Its because you cant really farm fast with those heroes. And now its the same for Tinker
+                        Silencer has a global 6 second silence through bkb, AA literally disables all heals with his global ult, Disruptor with a single aghs can win a teamfight 
+
+Tinker can... laser someone in 600 range to blind them and die?
+                > I think the valve wanted to remove the most annoying component of playing against tinker, which was "you can't see me, you can't catch me, and I still farm"
+
+Honestly being an evasive farm hero is fine assuming even remote balance. The worst part of playing against Tinker was having your lanes pushed in constantly and getting rocket spammed while pushing high ground. To catch that cheating rat you had to know where he was going to go and set up a gank, which was fun when executed correctly but not very easy in most cases. 
+
+I think the change is healthy for the hero even if he is underpowered right now. Changing his identity from "I literally dont care about item cooldowns" to something else frees up design space for the hero. Finding that identity is just going to take time.
+
+Maybe the hero should get a blink dagger as an ability, similar to the free bots he got. Would probably require multiple tweaks to his kit and numbers, but just throwing out ideas.
+                    The problem was if you balance the items around the fact one hero in the game can refresh them constantly, the items will suck for everyone else. Every time a new item was introduced I imagine the team discussing the impact on tinker specifically. They removed the item cooldown reduction from dazzle shortly (compared to how long the tinker had refresher for items) after introducing it
+                Tbh i didn’t read all that but what are you farming for lol??? To blink in and hex someone once? Then what? No hero is dying to laser alone
+                    He can still refresh spells I believe? Besides I already mentioned that the direction they are taking with the design is okay, but the current state is lacking. We can see that with winratio.
+            If tinker gets a decent laning then you can potentially play it carry
+            That’s just not true, as a Tinker player I haven’t lost with him yet this patch. March let’s you farm much faster than before. He still has rearm teleport. You just cast March from tree lines and clear waves, he’s a split pushing menace much more so than before. You can defend towers with ease. He’s very good at both HG push and defense. Late game he has sub 3 second blink. WW is never on CD when you need it. He’s insanely strong rn. You no longer have to stand still to rearm blink, you can move around, cast shield and/or WW and blink is up.
+                what rank you play at?
+                    Legend
+                        Why do you think that games where people play with their monitor off are relevant?
+
+You talk about farming faster. You have never seen anyone farm fast.
+                            Shut up nerd
+        I presume we are back to a tinker that can farm the shit out of stacks, and I sort of want it to play like kotl (but don't think it can yet)
+            It’s real strength in the late game is zoning HG both defense and offense. He’s a better late game hero now since his nukes fell off and he relied on single target hex he was more of a pick off hero last patch. Now he can actually help siege especially with the facet that heals allys with March
+        Brother that hero is a creep now... They took away his rockets for march, his damage is abysmal now. The hero was a glass canon now he is glass without cannons...
+            Have you played it yet?
+    Does it not refresh his abilities any more?
+    Change in build, I tried it, didn't work but something clicked.. My muscle memory changed a bit so m happy that way. M getting glimmer on him now XD. Blink, march> rearm> March> glimmer> rearm> march > tp out. It didn't work to be fair coz I had zues and sb and didn't notice I don't have rockets anymore. But i think a couple of more tries and it can work. I mean tinker is all abt creativity right??
+        Honestly I like this tinker more than before, been playing him offlane. Went for underlord type items, greaves, pipe, crimson, and I think I got a holly locket to increase the healing on his machines. Fun build will have to do it more.
+    And still needs to buy boots 
+    Just realized his passive ability doesn't work, that has to be malicious.
+        are you sure? you need like 110 int or something to match octarine reduction so it's easy to miss it normally
+        It was working when I played him this morning and quite strong.
+            Miss read it, thought it was spell and item reduction.
+I watched a high mmr game yesterday. Tinker would cast two spells, then teleport to base to replenish mana and repeat. He did that for the whole game. How can you enjoy playing like that?
+    you don't, tinker and his mana costs have always been balanced around the existence of soulring which is basically -150cost to his rearm. it was not uncommon in a midgame setting for tinker to bots somewhere, cycle his shit 2-3 times, go somewhere else, cycle 3-4 times, and then go back to base. If you rearmed 6-7 times before going to fountain thats like 1000 mana from soulring you are no longer receiving
+
+
+
+dagger is bad, but losing soulring is just as backbreaking
+        I've said this in another thread, I can't believe icefrog would let this change past his desk without at least giving rearm a mana cost reduction to make up for soul ring (the hero would still be unplayable btw). The ability is very clearly balanced around the fact that you're going to use it with the ring, and anyone who has played a single game of tinker in their life would know that.
+            It's rumored (and well, confirmed via internal leaks) that Icefrog has been mostly focused on the new Deadlock Valve game in Alpha. I imagine he still cares about Dota but might not be making/reviewing every change himself.
+                I believe it here. There's plenty in this patch that I love, but the tinker changes are so braindead and clearly coming from a place of absolute lack of knowledge of the game that I can't believe icefrog looked at them before they went out the door. Honestly, it feels like the last few years of tinker patches have been this way. Maybe the frog will finally look at tinker again someday and put him back to the way he is supposed to be (copium)
+                    Tinker is getting the techies treatment. He will never be like he was again
+                        Yeah, this is very much an intentional shift to his play style, not a balance change. He'll be quickly buffed to make him playable in ways that don't allow him to be played like he used to be.
+                        People don't fully appreciate this. Some mechanics are absolutely broken. They were dormant for many years, but once someone figures out the way to exploit things it's almost impossible to keep the same "feeling" behind the mechanics without it being absolutely broken.
+
+Tinker is useless as it is, but more changes will come. I don't think most people are sad about it though.
+                            Yet 20 years later, still no one had figured out how to make Tinker work in pugs or pro games.
+                                Sometimes, a hero is balanced poorly for high skill/coordination but absolutely stomps lower skill brackets. Tinker, Slark, and Meepo come to mind, but there have been others on certain patches. They're all OK/mediocre on the average patch at divine/immortal but absolutely crushed lobbies in lower mmr. It wasn't *just* a smurfing thing. They were too efficient at their gimmick when other players weren't skilled/coordinated enough to counter them. 
+
+I think reworking Tinker is healthy for Dota. Just like reworking Techies was.
+                                    Tinker’s win rate barely ever past the 50% mark in any bracket, herald through Immortal. For most of its existence Tinker has had a win rate sitting around 46-48% in pubs and was nonexistent in pro games, so what stomping are you talking about? The only thing Tinker had going for it was a very high skill ceiling and an unorthodox play style which made it a good smurf hero. Without smurfs, Tinker’s win rate would be even worse.
+                        sad but true
+                        The reasons my gaming world is just fading away.
+
+The Techies treatment. Replacing the hero for another hero but with your hero's skin. 
+
+He's just a spell caster with the skin of techies. Nothing remains at his gameplay mechanics. Saddes shit happened in dota.
+                            Yeah,
+I really liked the aspect that one team could pick techies and throw a huge curveball since he basically changed the whole game.   
+It was like you turning the chessboard to reveal a Checkerboard.
+                        At least techies is useful & having fun bombing people.
+
+As the guy said no item refresh is not THAT bad but the problem is mana cost when you lost soul ring.
+                        Best day ever
+                        True but Techies rework at least made him fun to play with, Tinker on the other hand is now stale and boring.
+                    It feel like the dev that made these changes is a hard stuck herald redditor.
+                    every single "innate skill" change has been trash. It's literally the same as before if you skill it, but it's generally one of the "must skill" choices. So most players are going to be the "same" as before either at level 1, or level 3-4. While other heroes get actual good stuff.
+            A lot of changes seems unlikely to be checked by icefrog imo, such as qop morphing trent etc. these changes don’t make any sense cuz they heros were no where close to OP and received little to no buff or major nerfed; meanwhile lc or axe has been good for several patches still received ridiculous buff
+                The big problem with qop is the playerbase. There is absolutely no reason to not max scream and yet people just want to dagger spam in lane and get countered by one set of 90g tangos. Scream got a full 1s cd buff, increasing farming dps by an insane amount. Her facets also increased her damage by a lot, or her sustain, whichever one you want will be good.
+            Icefrog hasnt been balancing this game for like 8 years.
+            Balancing a character around one or two items is *horrible* game design
+                Okay and? It's a fact that it was, and it's a fact that it is trash now without a mana reduction to make up for the fact that soul ring doesn't work with it anymore.
+        Yeah even as a diehard tinker hater i think losing soul ring is too much. Should get some mana cost buffs next patch.
+        What sorry, did they remove soul ring? Or does it have charges now?
+            well its not like you can re-arm it anymore... its unusable on tinker now
+                Ah right, no more item cd
+        People very often skipped soulring to  get a blink faster.
+            they would go back and get it afterwards then otherwise they were straight trolling if they skipped it entirely
+
+
+soul ring is the most used item on tinker according to dotabuff, prepatch
+    At this point I hope they just make Tinker a viable support so everyone can be happy.
+    Better than being able to spam blood ring without penalty.
+        lol
+    would think you're meant to have high into to chase the 60% cooldown reduction and that will in turn give you high mana regen which is meant to balance things out somewhat
+    thats the neat part - you dont.
+imagine getting carpal tunnel just to get countered by lotus and bkb
+    Lmao
+Huh. So this is what it looked like from the perspective of a non-Techies picker after the rework.
+    Well techies didn't become a dead hero, just a different hero.
+        Tinker can be buffed to become viable again, but without item rearm, it's not tinker anymore.
+        He was dead for years before becoming a viable albeit completely different hero
+    I only play him when I random (however I have randomed him twice now), it's always a feels bad pick but ran as a support you can make up for it with good fundamentals.
+
+The Repair Bot March is legit really good for sieging though.
+I'm just surprised people can win games with him.
+    IIRC, low to mid 30s is the absolute lowest a character's winrate can be unless they have some insane bug like "buying tangos gives each enemy 2000g"
+
+1/3rd of your games are unlosable/unwinnable
+        Think also of the highest winrate hero
+its not even a proper rework just destroyed the identity  of the hero and didnt even bother making the hero make sense afterwards
+    It’s obviously they want this hero to be something different, rip to old playstyle but eventually they will make his win rate ~50
+I think it’s safe to say they are not reverting this change because it’s not valve’s way so get used to new playstyle(maybe in 7.36 b or c)
+        Knowing Valve they will just tweak the numbers, if I had to guess CDs and mana costs until he becomes atleast playable. And probably missiles shard instead of that useless shard he has rn
+            Frankly, the numbers tweaks might be enough to make him viable - though probably in a support role.
+
+March is great for sieging, holding, and stealing stacks; laser is great for trading during the lanes; and you've got a global presence. 
+
+The biggest thing holding him back is the high mana-consumption, so if they bring that in line... maybe?
+    Nah. The identity is still there. Tp around the map and cast annoying spells
+
+It's just very bad now
+
+As it should
+        Didn’t realize this sub was full of tinker spammers. Most of them are macro spammers/scripters anyway so good riddance. I know we’ll be downvoted but I’m really enjoying them crying their eyes out.
+            Yeah yeah. Wait until they make arc double unable to use items, turn meepo clones into illusion, ld bear unable to carry items, invoker have 4 permanent spells. While we at it, make chen creeps and NP treants uncontrollable as well.
+
+Enjoy League of Legends.
+                cool slippery slope fallacy bro.
+                    i mean theyve already tried to rework and simplify chen like a dozen times. he used to have a nuke and a fountain sendback after 3s that didnt get stopped by enemy damage
+
+then they nerfed it a bunch of times and now he has a fucking 4 hp regen aura instead. 
+
+and this patch they introduced "im a baby i cant micro :( :( :(" facets to several micro intensive heros. really doesnt seem that far fetched especially if all the tinker smurfs just move to arc warden and arc becomes the central ire of our 2k mmr community
+                    Brother it was first techies and then this. And for the entire existence of dota2, there have been no new hero releases or reworks that would have created such unique heroes.
+
+On the contrary, the more normal heroes have been watered down as well. As in mobility abilities galore in new heroes and reworks.
+                That sounds good actually. Fuck Meepo and arc.
+                    I really recommend League of Legends then. It has none of this stuff that makes heroes way different from each other.
+                        Different shouldn’t mean so broken the hero can literally 1v5 the entire enemy team though.
+The problem is, they removed his greatest strength with leaving all his other spells with absolutely no synergy. By removing the item CD refresh, they killed his greatest strength without giving anything back. I think it would be better if Rearm with each use just reduces the cooldown of Items by a flat amount 4/5/6 something to that effect.
+I am not a tinker spammer but like the occasional pick.
+
+
+
+I feel so fucking sad. they just butchered him. No missiles, no blink refresh....
+
+
+
+I could live with the good old march, but not like this. He's essentially playing in one leg and an arm.
+
+
+
+Sad day for us tinker enjoyers
+    Yeah in this camp as well. Played him like once a month and usually lost but it was so much fun. Played this new one once and was just gobsmacked that they took everything good and gave him nothing in return. Rearm is still a 2.75 channel at level one lmao
+    MARCH MARCH MARCH HAHA
+        Pew, pew pew pew!
+
+
+
+Shit ain't no more now that you don't even get rockets
+    Feel you strongly, man
+    Good, fuck playing against tinker, little shit takes so much to kill and does insane dmg
+        avg 4k peak redditor screaming heroes are broken because he lost to a 7k smurf..
+            A character that can do that is obnoxious and needs to go💞. Massive dub from valve here 😌
+                Inform me the next time you lose to a smurf. I'll tell valve what hero the remove from the game next!
+    No need to lie bro, you can’t spam the only hero you could pick to stay in your bracket with your macros. Sad day for you guys 😢
+        True lol. Now they actually need to learn how to properly play the game
+tinker was never balanced, either OP or garbo
+    I think he had a few stages where he was pretty balanced, but the balancing was that if you don't fuck him up early enough and let him get the farm he needs he WILL be a huge pain in the ass for the rest of the game, and unless you had a reliable way to catch him you have already lost. 
+
+the hero is inherently problematic because rearm was fundamentally broken, but I think he has been pretty fair for a few patches. 
+
+I've had a few patches where I had 60-65% win rate playing tinker and using that knowledge I also had a 70% win rate against him. the key always was to pop every early smoke to kill the fucker lmao
+Just to get the full enjoyment, went into trouble to watch the full meme with the same context. Now I enjoyed it .
+I am 100% sure that one in the group that make the updates has something against tinker pickers.
+    I mean, everyone who isn't a Tinker picker has a problem with Tinker pickers.
+        I mean who even likes facing tinker players, annoying asf to deal with especially when he can escape due to his shield. The hero is a pubstomper on uncoordinated teams
+            I remember my TB hc game, played so well in the end to get pew pewd by that fucker
+        No man, it's totally fine to blink full range every second while firing missiles at anyone trying to catch you after farming the whole map
+        I don't have any. Skill issue on your side.
+            People generally hate heroes that make them having to react how the enemy plays, rather than living in their own bubble.
+
+This either comes in a form of different style heroes like old techies or whole strategies like ratting.
+    Ive always thought this when they keep nerfing him every patch
+Tinker's cast range for skills is abysmally low that he is almost always in the firing lines and simply dies doing what he does now (heal march and shield around the map). His offensive capabilities is non existent now so he's just a terrible support.
+As tinker player i know he is annoying, but lets not pretend he is some kind of god tier elusive hero. The nerf on blink dagger taking dmg has already weaken his mobility. Then we got hit by missile search range from 2500 to 2000, then its laser range from 600 to 450 and missile from 2000 to 1500. There is also nerf on sheepstick duration, where any player that have status resistance will be able to get out from the stun lock.  
+  
+And you know what? he is still playable. Despite all that nerf, tinker player still can enjoy the thrill of blinking everywhere. Now this hero is basically dead on arrival. The only reason we got 35% winrate is because people do not read patch. Give it another 1 week and this hero will be the least played hero on current patch, worst than Chen.
+    Kids always crying about tinker being so OP and evasive and yet happily play against stupid heroes like Puck, Ember, void and earth spirit to name a few.
+
+People who cry about tinker are the same shit kids who haven't played the hero to a level of being decent, which is wild cause then they'll understand that the hero actually takes skill, map knowledge and match up skill as well.
+    Your days of oppression is over as a tinker player. You said it, “stun lock with sheep stick” let me get my container to collect your tears. Be gone mortal
+    Ive got 79.6% winrate with tinker with 200 games in 6kmmr but after the patch where they almost made him a melee hero because of his cast range it went to 77% he is so hard to play before and now the this current patch really made into a different hero, he is not the same anymore, only tinker players would understand this pain 💔
+Get rekt tinker spammers
+Hah suck it
+I dunno. Tinker was a recognizable and unique part of the game, and he always seemed cool to me, even though I’m not a mid player so I never played him. 
+
+I’ll miss tinker.
+    Hah, says the arc player. You're next bud.
+        Dude im an arc player and this patch he got nerf pretty badly...60secs tempest double seems cool, which allow him to farm jungle longer. But the caveat is, if died half way during farming, the cd is reset back.   
+  
+What used to be 50secs cd with tempest last 36secs has turn into 80secs cd, and you need to really watch for your tempest double. If you leave em unchecked rushing tower, enemy can literally kill him with 5secs left...and instead of waiting for ten more second to spawn tempest, the cd get reset and you have to wait 80secs.   
+  
+They literally kill the hero potential to split push...
+            Maybe that's the point. Maybe don't treat it as an illusion.
+                That is dumbing down the micro, see terrorblade. 
+
+
+On the other hand Naga, Lycan and Visage got some antimicro facets which you can however choose.
+                The whole point of my post is to highlight your comment about "you're next bud". We are not next, but we are already been nerf severely on this patch.
+
+I get your point that dont treat his ult as illusion, but arc player always control their tempest during split pushing, we dont just throw em away...but you cant really do anything if the tempest is being gank while pushing lane alone. 
+
+So now, the whole idea of playing arc as potential split pushing hero is nonexistence...he is just another carry, and im not sure if want to play him as "just another carry", there are plenty of other carry better than Arc.
+                    If you want a serious answer, it seems like valve is finally tackling heroes that are not fun to play against or negatively affect the game experience even though they might have die hard fans or be unique like techies or tinker.
+        I know. Then meepo, then invoker, then morphling. 
+
+Then on to anything mildly complicated and “annoying” past that, until every hero is the same jump, slow, nuke, and stun with the ability to scale with right clicks.
+            You really can't see the difference between Arc/Meepo and Invoker?
+                invoker literally got a "im baby i cant handle juggling my orbs for their active buffs :(" facet this patch and half the micro heros in the game also got a facet wasted to cater to people incapable of even box select micro
+
+its hard not to to see a trend here
+                    Yea... Hero identity is getting degraded a lot in my opinion...
+                    Because micro heroes have all been underplayed and unpopular across the board forever.
+                        how do you make chen popular? If the answer is "remove all the micro and make him into something else entirely" then just make a new hero to do that. you dont need to delete an existing one
+
+Its fine if a few heros are less common because most people don't want to micro. Leave a few micro heros for people who want to engage with that
+    Well said
+Redditors love to shit on people that like heroes they don't, but the moment some brainless hero that they like is unplayable they all start crying.
+    Brainless hero lmao. This kid has probably played 3 games of tinker in 20 years and is a professional. Massive Xd.
+        Go spam some slark kid.
+It's easier for people to cry about xyz hero rather than admitting that they have a skill issue and need to improve.
+    what do you mean, any player that plays any micro hero or hero with a lot of buttons is smurf and thats why i lost /s
+    Dont pretend most tinker spammers didnt use macros/scripts to play the hero efficiently. He was bad design for pub games and therefore bad design for 99% of games.
+    I see you are a Tinker hater as well.
+        No. I don't play tinker nor do I fear playing against him. I am just don't like heroes having their unique identity destroyed and being made unplayable which is what a certain number of heroes have becomes including tinker.
+    Aww, can’t spam your micros/scripts anymore? 😢😢
+        That's an interesting way to say you have slow fingers and reaction :) Also I don't play tinker lol
+        It says a lot about your level of play that you think tinker requires scripts to play
+            Still mad huh?
+                I have 10 games played total in the last 5 years so not rly
+                    So your opinions mean nothing.
+                        Well you would view the tinker from 5 years ago as requring scripts aswell so your argument is a bit dogshit here
+                            Except they’re still running scripts to this day. How do you make a claim with no basis in reality when you haven’t played the game in 5 years. You’re the one basing your arguments on a few games you played 5 years ago. And you have the audacity to call someone else’s argument dogshit when yours is even worse.
+                                brother I was literally top 1k when I played. Its obvious my understanding of the hero is a thousand times that of yours. You do not need scripts to play tinker. You didnt need them back then nor do you need them now. You are not stuck in low mmr because of "scripting tinker player" you are stuck because you suck myguy
+The real question is who d fuck is winning with it
+honestly i am so happy hes out of the picture. fucking hated that hero.
+As a Morphling player, not quite everyone else :(
+    Honestly fuck you guys even more. I can deal with a good tinker but a good morph just ruins games.
+        just because you cant win against a better player doesnt mean the game is ruined. dota player jargon is trash
+            A hero with this much oppression and evasion would accentuate a gap between player skill much more,to the point where its not fun to play against that hero period
+                period!
+            I guess even pro players who hate those heroes must be trash according to your 2k herald logic.
+                "chatgpt please make a troll comment to this one that displays lack of communication skills and logical thinking"
+            If it was a higher skill character sure I would agree. Getting stomped by an incredible meepo or a good invoker is still fun because I know the skill required. Hitting ability shift and wave from or e blade and adaptive strike is a very low skill things and is not fun to play into even when your winning the game.
+                >Hitting ability shift and wave from or e blade and adaptive strike is a very low skill things
+
+Yet I've come across so many morphs that suck at doing this and full agi themselves to death all the time. It does require some skill, even the most basic skill requirement hero still requires skill to play well. Plus eblade doesn't scale with hero stats anymore, it scales with the target's stats.
+                    Always weird considering morph is one of the higher skilled carry in dota2. Im more annoyed by the occasional AM PA pick which basically makes up 70 percent of the pubs
+                        Yea, morph is a really complex carry hero, to utilise him to his full potential you literally have to have knowledge of all the other heroes skills too. He is far from a simple hero. The person I replied to completely ignored morphs ulti.
+                Clicking your hero's buttons is like 5% of the skill in dota, even on meepo invoker tinker w/e. If you can't see the skill required to play even something like dragon knight at a high level you gotta pay more attention.
+                "ruins games" is trash just like your explanation for it
+            Good job u won ur own made up argument 
+
+To bad its not related to the comment u were replying to
+                you people are fucking weird
+Keen conveyance should be a blink instead of BoT. Tinker needs to blink multiple times to be good.
+    *to be fucking annoying to play against and broken.
+
+Ftfy
+        tf are you on about? is puck broken? is am broken? is qop broken? tinker wasn't annoying because of constant blinking, tinker was annoying because of rocket spam, shiva spam, chain hexing and being dumb to deal with as a right click carry(perma-etherial, 100% miss on laser, etc). BLINK DAGGER was the LEAST of your worries
+            You know well what I’m talking about. Blinking every 1.5s and blinking out of damage was the problem.
+                have you ever played against a good puck
+                    They haven't played against a good anything but are still crying lmao
+Rip tinker
+I tried ramping up his int to 240 (Which isn't that hard since at lvl 30 he has 140 base) that reaches 60% cdr *and* bought Octarine core. So here's some items cooldowns:
+
+Scythe: 6 seconds 
+
+Acrane blink: 2.1 seconds
+
+Wind waker: 4.8 seconds
+
+Bloodthorn, Lotus and Disperser : 4.5 seconds
+
+Linken's: 4.2 seconds.
+
+Guardian greaves: 12 seconds (and yes, buff that prevents another heal matches that as it's supposed to)
+
+Ethereal blade: 6.6 seconds
+
+Metheor hammer: 7.2 seconds
+
+Gleipnir: 5.4 seconds
+
+And lastly, BKB - 28.5 seconds.
+
+Bare with my possible big skill issue, but aren't some of these cooldowns still look very scary, considering that he now doesn't have to channel rearm and can just jump around freely?
+    Those sound amazing. Specially the BKB.
+
+The problem is getting there. Tinker was a hero largely balanced around the ability to cast soul ring. This new rework makes soul ring prohibitively expensive for what it does. 
+
+So in return for having lost his early mana engine, as compensation for his spell costs, Tinker has... Nothing.
+
+How DOES he get there? By supporting? No, why are you laughing, that is my legitimate current guess.
+        It's basically Leshrac's problem 8 months ago when Bloodstone lost it's active spell lifesteal for the increase AoE. 
+
+The main thing is that Tinker lost his way to sustain his ridiculous mana cost for farming jungle camps now using March of the Machines+Rearm, which Soul Ring has done in the past.
+        Can arcane boots + arcane blink rush somehow mitigate this? I know it sounds weird, but you gotta adapt to the changes, and this seems to mitigate at least some of his mana problems.
+
+Though arcane blink rush even on paper doesn't sound good either, but at least it will provide him with needed int and mana.
+            arcane boots can't be rearmed, there's no source of mana burst that can sustain rearm, and yeah let's adapt around 7k gold first item that literally did nothing. Did you even put any thought into this lol?
+            Int Blink does seem like an inevitably mandatory item on Tinker now. The boots part appears to be what Mavis, the only person on d2pt who seriously even bothering to try tinker, appeared to be doing. But they're also clearly supporting. They have Greaves and Solar Crest on all the matches they won. https://dota2protracker.com/hero/Tinker
+
+I think it'll take the first fast letter patch before anyone feels safe with trying this in a serious pub. I mean, if the one person giving it a chance is just doing Dazzle but worse...
+    Or you could just play strength morphling and get 50% cdr from level 1 and probably still lose the game but you'll win more often than tinker does
+Year after year it resembles more and more to lol.
+
+They're tearing the whole game identity.
+    If tinker was dota’s identity then the game should get a new one
+I consider this a victimless nerf.
+I won with tinker on my team, he had radiance sny and grieves. I had a void with circle ult, didn't even read what it does. Was a double down too ಠ_ಠ
+    Why u guys just doubled own without looking at anything?
+the annoyinf part is arcana blink can't even let you synergise with rearm - march + blink
+
+you would rearm-march-rearm-march-blink
+"They killed the hero"   
+"They are killing unique designs" 
+
+I'll be honest with you chief, the hero was shittiely designed to begin with, even the guy who implemented the hero in DotA admitted to it.
+    Realest shit I've read this day. Hopefully Arc is next 🙏🙏
+Fucking hate valve for taking away my right click bounty hunter, but they also stopped the scripting incel tinker turbo pickers. So its a fair trade.
+GOOD!
+first they came for broodmother but i did not speak up because i was not a brood player. 
+
+Then they came for techies but i did not speak up because i was not a techies player. 
+
+Then they came for tinker but i did not speak up because i was not a tinker player. 
+
+Then they came for me but there was no one speak up because i want everyhero counterable just by r.clicking on it
+I hope they give him a proper rework soon, right now there’s just no synergy in his kit
+Mm
+if they swap warp flare with laser he might actually be fun, little mini game pushing heroes back while the march pumps them
+March is good but no way it threatens towers
+Tinker balanced.....
+Lens is already dealing with this problem
+After all the hotfix buffs he's still gutted ig
+Lycan off has a 32% wr lmao and I just won 9 games in a row
+Idk I think he is undervalued. 
+I am not a tinker player myself but I’ve played 3 games with skilled tinker players in my team so far and all 4 games they had big impact. Came gank early, gave me as an offlaner the shield, allowing us to dive etc. the impact was there.
+I mean, whole problem of original desighn that tinker essentially needed 2 items (1,5 realy) to become strongest hero on map even if he's far behind in farm.
+
+It's was not normal that hero with blink and shivas guard could just outplay all 5 heroes in enemy team, now he needs shit ton of gold to do the same, as he should. People just didn't find how to play rn.
+this hero has been a cancer for many years and now he is completely dead, thanks god! hopefully they keep it like that.
+    This hero has been practically non-existent in the game for many years (link me the last game you played against a tinker). You are literally just having PTSD flashbacks from how the hero was 9 years ago and whinging about it on reddit, but unfortunately valve is currently in the "loudest suggestion on reddit" phase of balancing the game.
+        "Perma-hex is fundamentally broken!" 
+-man who hasn't even seen a tinker build hex in the last 5 years
+yeah
+Tinker was always a pain in the ass when playing against. It's not that he was broken or not, it's just fucking annoying. Just like playing against a rat Furion or a rat Druid or techies. Just annoying, not necessarily broken. I'm happy that we have less annoying shit now but waaay more to go
+Ah, fresh, high grade Tinker Picker tears. Great for making pretzels!
+Oh no, a unique hero which everyone hated got murdered...
+
+Get fucked tinker pickers, cry me a river
+    Herald spotted
+Good, he was ultimate cheese for scripters and map hackers.
+It is so entertaining to watch Tinker pickers whine and cry. Another Valve W
+    L take
+
+L is for league of legends 
+        LMAO even. I will definitely miss high level Tinker play but still. Tinker rats belong in sewer.
+after having countless games ruined by tinkers im so happy with Valve rn
+Good, fuck him
+Herald moment
+[deleted]
+    You might as well play league of legends lil bro 💀
+Tinker players need to realize they are no longer allowed to play the game as a core before they have arcane blink, hex and shivas. Support tinker seems cool tho (march heals for alot actually)
+    March heals terribly low, I just tested it in game.
+tbh the big amount of tinker players i see in my bracket (3k) are cheaters, and I am super happy that cheaters are fvcked, because anyone hero with a cheat you can try to deal, tinker you basically cant
+HOW LOW CAN WE GO :D
+still too high
+March March March into lower win rate 🫡
+Good.
+I am a proud member of association of Tinker hater incorporated.
+Oh no...anyway.
+
+First techies got shafted, now tinker. 
+Now waiting for brood to get shit on, since the current changes make her really obnoxious again.
+I wanted him completely removed from the game and reworked into a new hero with a similar vibe, like Techies, but honestly having him dumpstered is just as enjoyable lmao
+It somewhat sucks... but they have something.
+
+March of the machines is back.  
+And meteor hammer has CRD now.  
+On top of the free TP.
+
+They looks like they want to make him a pusher/support.
+
+They just need to fix the awfull mana cost of the main spells.  
+But I really like how this is going.
+I won't stop hating until Tinker is removed from the game. Fuck that hero
+in constrast, arc became stronger and easier to use
+Packwatch rip bozo
+Good... I hope valve don't buff him back.. He needs to suffer for a few patches.
+
+Perma hex was not OK. I did not consent. #SheepToo
+Hahahahahhahahaha!
+I had to beg my  mid player earlier to not pick tinker mid. He was so stubborn about getting last pick that my safelane carry made him random his hero and it literally saved us the game.
+W icefrog
+Yay, hope they delete him and also delete other imba cheese abuse heroes. I think for dota to be fair we only need: jagger, ursa, pa, sniper and pudge, delete the rest.
+nobody played it since they gave him matrix
+
+pls find statistics before posting
